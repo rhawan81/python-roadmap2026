@@ -1,4 +1,4 @@
-class Item:
+class Item: ### Todo este arquivo foi puxado para a pasta do projeto cli ontem cada um esta no seu devido lugar
     def __init__(self, nome, idade):
         self.nome = nome
         self.idade = idade
@@ -11,7 +11,7 @@ class Item:
 
 
 
-class Sistema:
+class Sistema: ## SISTEMA FOI IMPORTADO PARA A PASTA SISTEMA PARA MELHORAR E TER BOAS PRATICAS PARA IMPORTAR CLASSES E TUDO QUE ELA EXECUTAR
     def __init__(self):
         self.items = []
         
