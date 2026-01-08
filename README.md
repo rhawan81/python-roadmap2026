@@ -1,273 +1,221 @@
-# PYTHON PLANO DIARIO DURANTE 30 DIAS
+# **🐍 Plano de Estudos Python – Do Zero à Vaga de Estágio/Júnior**
 
-# 🐍 Plano de Estudos Python – Do Zero à Vaga de Estágio/Júnior
-
-Este Notion foi criado para te guiar **passo a passo**, com foco TOTAL em empregabilidade.
+Este plano foi **reajustado** com base no que você **já executou na prática**, não em teoria. Ele reflete exatamente seu nível atual e o caminho real até **estágio/júnior**.
 
 ---
 
 ## 🎯 Objetivo Final
 
-Conseguir uma vaga de **Estágio ou Desenvolvedor Júnior em Python**.
+Conseguir uma vaga de **Estágio ou Desenvolvedor Júnior em Python (Backend)**.
 
 Ao final do plano você terá:
 
-- Python sólido
-- 1 framework web (FastAPI ou Django)
-- 2 a 4 projetos reais no GitHub
-- Noções de testes, Git e boas práticas
-- Currículo e LinkedIn prontos
+- Python sólido (fundamentos + POO)
+- Projetos organizados em repositórios GitHub
+- Experiência real com CLI, organização de projeto e Git
+- Base pronta para FastAPI
+- Currículo e LinkedIn alinhados
 
 ---
 
-## 🧭 Como Usar Este Notion
+## 📍 STATUS ATUAL (CONFIRMADO)
 
-- Use como **checklist diário**
-- Marque o que foi concluído
-- Volte todos os dias após a notificação
-- Não pule fases
+Você **JÁ CONCLUIU**:
 
----
-
-# 🔹 FASE 1 — Fundamentos de Python
-
-⏱️ Duração: 2–3 semanas
-
-### 📚 Conteúdos
-
-- Sintaxe básica
-- Variáveis e tipos de dados
-- Condicionais (if / else)
-- Laços (for / while)
-- Funções
-- Listas, Tuplas, Sets
-- Dicionários
-- Exceptions
-- Type Casting
-
-### ✅ Checklist
-
-- [ ]  Sei criar e usar funções
-- [ ]  Sei manipular listas e dicionários
-- [ ]  Sei tratar erros com try/except
-- [ ]  Sei resolver problemas simples sozinho
-
-### 🧪 Mini‑Projeto
-
-**Script em Python** que:
-
-- Recebe dados do usuário
-- Processa informações
-- Exibe resultados organizados
-
----
-
-# 🔹 FASE 2 — Estruturas de Dados & Algoritmos
-
-⏱️ Duração: 2 semanas
-
-### 📚 Conteúdos Essenciais
-
-- Listas e Arrays
-- Dicionários (Hash Tables)
-- Pilha (Stack)
-- Fila (Queue)
-- Recursão (básico)
-- Algoritmos de ordenação
-
-### ✅ Checklist
-
-- [ ]  Entendo quando usar lista vs dicionário
-- [ ]  Sei implementar busca simples
-- [ ]  Sei explicar ordenação básica
-
----
-
-# 🔹 FASE 3 — Python Profissional
-
-⏱️ Duração: 2 semanas
-
-### 📚 Conteúdos
-
+- Fundamentos de Python
+- Estruturas básicas
+- Exceptions (`try/except`)
 - Programação Orientada a Objetos
-- Classes e Métodos
-- **init** e dunder methods
-- Módulos e pacotes
-- List Comprehension
-- Lambdas (básico)
-- Decorators (conceito)
+- Projeto CLI completo
+- Organização em múltiplos arquivos
+- Imports corretos
+- Publicação no GitHub
 
-### 🧪 Projeto Obrigatório #1
-
-**Sistema em Python puro (CLI)**
-
-Exemplos:
-
-- Gerenciador de tarefas
-- Cadastro de usuários
-- Controle financeiro
-
-### ✅ Checklist
-
-- [ ]  Código organizado em pastas
-- [ ]  Uso de classes
-- [ ]  Projeto publicado no GitHub
+👉 Seu nível atual: **Python Júnior Inicial (bem sólido)**
 
 ---
 
-# 🔹 FASE 4 — Framework Web (Backend)
+# ✅ FASE CONCLUÍDA — BASE PYTHON
 
-⏱️ Duração: 3–4 semanas
+### ✔️ Fundamentos
 
-### 🟢 Framework Recomendado
+- [X]  Variáveis e tipos
+- [X]  Condicionais
+- [X]  Loops
+- [X]  Funções
+- [X]  Listas, tuplas, dicionários
 
-**FastAPI**
+### ✔️ Python Profissional
 
-### 📚 Conteúdos
+- [X]  Classes
+- [X]  `__init__`
+- [X]  Métodos
+- [X]  Modelagem correta
+- [X]  Separação de responsabilidades
 
-- APIs REST
-- CRUD
-- Requests e Responses
-- Validação com Pydantic
-- Status Codes
-- Swagger
+### ✔️ Projeto Real
 
-### 🧪 Projeto Obrigatório #2
-
-**API REST completa**
-
-- CRUD
-- Validação
-- Documentação automática
-
-### ✅ Checklist
-
-- [ ]  API rodando localmente
-- [ ]  Endpoints funcionando
-- [ ]  Projeto no GitHub
+- [X]  Sistema CLI com menu
+- [X]  Cadastro e listagem
+- [X]  Tratamento de erros
+- [X]  Organização em arquivos
+- [X]  ✔️ Git e GitHub
+- [X]  Repositório criado
+- [X]  Commits funcionais
+- [X]  `.gitignore`
 
 ---
 
-# 🔹 FASE 5 — Qualidade de Código
+# 🚀 NOVA FASE — RUMO À VAGA (ATUALIZADA)
 
-⏱️ Duração: 1–2 semanas
+## 📅 DIA 17 — Boas Práticas + README Profissional
 
-### 📚 Conteúdos Importantes
+**Objetivo:** deixar o projeto apresentável para recrutador
 
-- Git e GitHub
-- Pytest (básico)
-- Typing
-- Black ou Ruff
-- Virtualenv
-
-### 🧪 Projeto Obrigatório #3
-
-- Testes básicos
-- Tipagem
-- Código formatado
+- [ ]  Melhorar nomes (PEP8)
+- [ ]  Ajustar prints e mensagens
+- [ ]  Criar README explicando:
+    - [ ]  o que o projeto faz
+    - [ ]  como rodar
+    - [ ]  tecnologias usadas
+    
 
 ---
 
-# 🔹 FASE 6 — Vagas, Currículo e LinkedIn
+## 📅 DIA 18 — Refatoração Guiada
 
-### 📄 Currículo (1 página)
+**Objetivo:** pensar como dev de time
 
-- Python
-- FastAPI/Django
-- Git
-- Testes
-- Projetos (links)
-
-### 🌐 Plataformas para Aplicar
-
-- LinkedIn
-- Gupy
-- Vagas.com
-- Estágio.br
-
-### ✅ Checklist Final
-
-- [ ]  GitHub organizado
-- [ ]  Currículo pronto
-- [ ]  LinkedIn atualizado
-- [ ]  Aplicando para vagas
+- [ ]  Remover código repetido
+- [ ]  Simplificar métodos
+- [ ]  Pequenas validações extras
 
 ---
 
-## ⏳ Timeline Realista
+## 📅 DIA 19 — Testes Básicos (Introdução)
 
-- 3 meses → Estágio
-- 4–5 meses → Júnior
-
----
-
-## 📅 PLANO DIÁRIO — PRIMEIROS 30 DIAS
-
-### 🗓️ Semana 1 — Fundamentos Absolutos
-
-- [x]  **Dia 1:** Instalar Python, VS Code, configurar ambiente
-- [x]  Ambiente configurado
-- [x]  Python rodando
-- [x]  Editor instalado
-- [x]  DIA 1 CONCLUÍDO
-
-——————————————————————-
-
-- [x]  **Dia 2:** Sintaxe básica, print, input, comentários
-- [x]  ☐ Criei o arquivo [dia2.py](http://dia2.py/)
-☐ Usei input()
-☐ Usei print()
-☐ Rodei o código com sucesso
-☐ DIA 2 CONCLUÍDO
-- [x]  **Dia 3:** Variáveis e tipos de dados
-- [x]  **Dia 4:** Condicionais (if / elif / else)
-- [x]  **Dia 5:** Laços (for / while)
-- [x]  **Dia 6:** Funções (def, parâmetros, retorno)
-- [x]  **Dia 7:** Revisão + exercícios práticos
+- [ ]  **Objetivo:** entender qualidade de código
+- [ ]  O que é teste
+- [ ]  Teste manual vs automatizado
+- [ ]  Introdução ao `pytest`
 
 ---
 
-### 🗓️ Semana 2 — Estruturas Básicas
+## 📅 DIA 20 — Ambiente e Dependências
 
-- [x]  **Dia 8:** Listas (criar, acessar, métodos)
-- [x]  **Dia 9:** Tuplas e Sets
-- [x]  **Dia 10:** Dicionários
-- [x]  **Dia 11:** Type casting + operações
-- [ ]  **Dia 12:** Exceptions (try / except)
-- [ ]  **Dia 13:** Exercícios de lógica
-- [ ]  **Dia 14:** Mini-projeto simples
+**Objetivo:** rodar projeto em qualquer máquina
+
+- [ ]  `venv`
+- [ ]  `pip`
+- [ ]  `requirements.txt`
 
 ---
 
-### 🗓️ Semana 3 — Python Profissional
+## 📅 DIA 21 — Introdução a APIs
 
-- [ ]  **Dia 15:** Módulos e importações
-- [ ]  **Dia 16:** Programação Orientada a Objetos (classes)
-- [ ]  **Dia 17:** Métodos, **init**, atributos
-- [ ]  **Dia 18:** List Comprehension
-- [ ]  **Dia 19:** Lambdas e funções built-in
-- [ ]  **Dia 20:** Organização de projeto
-- [ ]  **Dia 21:** Projeto CLI em Python
+**Objetivo:** mudar mentalidade de CLI → Web
+
+- [ ]  O que é API
+- [ ]  Request / Response
+- [ ]  HTTP básico
 
 ---
 
-### 🗓️ Semana 4 — Base para Mercado
+## 📅 DIA 22 — FastAPI (Primeiro Contato)
 
-- [ ]  **Dia 22:** Git e GitHub (commit, push)
-- [ ]  **Dia 23:** Virtualenv e dependências
-- [ ]  **Dia 24:** Introdução ao FastAPI
-- [ ]  **Dia 25:** Criar primeira API
-- [ ]  **Dia 26:** CRUD básico
-- [ ]  **Dia 27:** Validação com Pydantic
-- [ ]  **Dia 28:** Testes básicos (pytest)
-- [ ]  **Dia 29:** Melhorar projeto + README
-- [ ]  **Dia 30:** Revisão geral + próximos passos
+**Objetivo:** criar primeira API
+
+- [ ]  Estrutura FastAPI
+- [ ]  Endpoint simples
+- [ ]  Swagger
 
 ---
 
-## 🚀 Regra de Ouro
+## 📅 DIA 23 — CRUD com FastAPI
 
-> Todo dia um pouco. Nunca parar.
+**Objetivo:** reproduzir o projeto CLI como API
+
+- [ ]  Criar
+- [ ]  Listar
+- [ ]  Atualizar
+- [ ]  Deletar
+
+---
+
+## 📅 DIA 24 — Validação e Pydantic
+
+**Objetivo:** dados seguros
+
+- [ ]  Models
+- [ ]  Tipagem
+- [ ]  Validação automática
+
+---
+
+## 📅 DIA 25 — Projeto API Completo
+
+**Objetivo:** projeto de portfólio
+
+- [ ]  API organizada
+- [ ]  Endpoints claros
+- [ ]  README
+
+---
+
+## 📅 DIA 26 — GitHub Profissional
+
+**Objetivo:** perfil atrativo
+
+- [ ]  Fixar repositórios
+- [ ]  Commits descritivos
+- [ ]  README final
+
+---
+
+## 📅 DIA 27 — Currículo Técnico
+
+**Objetivo:** aplicar para vagas
+
+- [ ]  Currículo 1 página
+- [ ]  Projetos como experiência
+- [ ]  Stack clara
+
+---
+
+## 📅 DIA 28 — LinkedIn Estratégico
+
+**Objetivo:** ser encontrado
+
+- [ ]  Bio técnica
+- [ ]  Postagem fixa
+- [ ]  Palavras-chave
+
+---
+
+## 📅 DIA 29 — Aplicações Reais
+
+**Objetivo:** entrar no mercado
+
+- [ ]  LinkedIn
+- [ ]  Gupy
+- [ ]  Vagas.com
+- [ ]  Estágio.br
+
+---
+
+## 📅 DIA 30 — Revisão Final
+
+**Objetivo:** consolidar
+
+- [ ]  Revisar projetos
+- [ ]  Ajustar pontos fracos
+- [ ]  Planejar próximos 60 dias
+
+---
+
+## 🧠 REGRA DE OURO
+
+> Você não está estudando Python. Você está construindo perfil profissional.
 > 
 
-Quando bater desânimo: volte aqui e continue.
+---
