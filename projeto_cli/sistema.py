@@ -28,7 +28,7 @@ class Sistema:
             elif opcao == 4:
                 self.remover_item()
             elif opcao == 5:
-                 print('saindo do sistema')
+                 print('saindo do sistema !')
                  break
                
                 
