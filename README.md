@@ -66,19 +66,24 @@ Você **JÁ CONCLUIU**:
 
 ---
 
-# 🚀 NOVA FASE — RUMO À VAGA (ATUALIZADA)
+# 🚀 NOVA FASE — RUMO À VAGA 
 
 ## 📅 DIA 17 — Boas Práticas + README Profissional
 
 **Objetivo:** deixar o projeto apresentável para recrutador
 
-- [ ]  Melhorar nomes (PEP8)
-- [ ]  Ajustar prints e mensagens
-- [ ]  Criar README explicando:
-    - [ ]  o que o projeto faz
-    - [ ]  como rodar
-    - [ ]  tecnologias usadas
-    
+- [X]  Melhorar nomes (PEP8)
+- [X]  Ajustar prints e mensagens
+- [X]  Criar README explicando:
+- [X]  o que o projeto faz
+- [X]  como rodar
+- [X]  tecnologias usadas
+- [X] Revisei nomes e mensagens
+- [X]  Código mais limpo e legível
+- [X]  README criado/ajustado
+- [X] Projeto apresentável
+- [X]  DIA 17 CONCLUÍDO
+
 
 ---
 
