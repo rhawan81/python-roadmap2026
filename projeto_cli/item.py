@@ -5,4 +5,5 @@ class Item:
 
     def exibir(self):
         return f"Nome: {self.nome} | Idade: {self.idade}"
-
+    def __str__(self):
+        return f"{self.nome} ({self.idade} anos)"

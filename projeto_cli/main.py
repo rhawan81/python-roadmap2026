@@ -1,3 +1,6 @@
+from item import Item
+
+
 class Sistema:
     def __init__(self):
         self.items = []
@@ -7,7 +10,8 @@ class Sistema:
             print("""1.Mostrar Menu
     2.Cadastrar Item
     3. Listar Items
-    4.Sair""")
+    4.Remover items
+    5.Sair""")
             try:
                 opcao = int(input('Escolha oque deseja fazer'))
             except ValueError:
@@ -21,8 +25,16 @@ class Sistema:
             elif opcao == 3:
                 self.listar_items()
             elif opcao == 4:
-                 print('saindo do sistema')
-                 break
+                try:
+                    indice = int(input('Oque deseja remover ? '))
+                except ValueError:
+                    print('Digite um valor valido')
+                    continue
+                print(self.remover_item(indice))
+            elif opcao == 5:
+                print('saindo do programa')
+                break      
+              
                
                 
     def cadastrar_item(self):
@@ -46,6 +58,15 @@ class Sistema:
         print("\n=== ITENS CADASTRADOS ===")
         for i , item in enumerate(self.items,start=1):
             print(f'{i} . {item.exibir()}')
+            
+    def remover_item(self, indice_item):
+        item_removido = indice_item - 1
+         
+        if 0 <= item_removido < len(self.items):
+                item_remove = self.items.pop(item_removido)
+                print(f'ITEM {item_remove} foi removido com sucesso')
+        else:
+                print('Indice invalido !')
         
 
 if __name__ == "__main__":
