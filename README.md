@@ -100,22 +100,25 @@ Você **JÁ CONCLUIU**:
 
 ## 📅 DIA 19 — Testes Básicos (Introdução)
 
-- [ ]  **Objetivo:** entender qualidade de código
-- [ ]  O que é teste
-- [ ]  Teste manual vs automatizado
-- [ ]  Introdução ao `pytest`
-
----
-
+- [x]  **Objetivo:** entender qualidade de código
+- [x]  O que é teste
+- [x]  Teste manual vs automatizado
+- [x]  Introdução ao `pytest`
+- [x] Testei menu com entrada inválida
+- [x] Testei cadastro com idade inválida
+- [x] Testei listar vazio e com itens
+- [x] Testei remover válido e inválido
+- [x]  Anotei comportamentos
+- [x] DIA 19 CONCLUÍDO
 ## 📅 DIA 20 — Ambiente e Dependências
 
 **Objetivo:** rodar projeto em qualquer máquina
 
-- [ ]  `venv`
-- [ ]  `pip`
-- [ ]  `requirements.txt`
-
----
+- [x]   ` Criei venv`
+- [x]    ` Ativei ambiente virtual pip`
+- [x]   ` Criei requirements.txt`
+- [x]   ` Projeto rodando no venv`
+- [x]   ` DIA 20 CONCLUÍDO `
 
 ## 📅 DIA 21 — Introdução a APIs
 

@@ -1,0 +1,2 @@
+# Projeto CLI em Python
+# Sem dependências externas no momento

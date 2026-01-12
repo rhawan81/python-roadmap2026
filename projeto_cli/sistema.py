@@ -14,6 +14,8 @@ class Sistema:
     5.Sair""")
             try:
                 opcao = int(input('Escolha oque deseja fazer'))
+                if opcao > 5:
+                    print('Valor invalido de menu')
             except ValueError:
                 
                 print('valor invalido tente novamente')
@@ -37,6 +39,9 @@ class Sistema:
         while True:
             try: 
                 idade = int(input('Idade:'))
+                if idade <= 0:
+                    print('Digite um numero maior que zero')
+                    continue
                 break
             except ValueError:
                 print('idade invalida . digite um numero')
