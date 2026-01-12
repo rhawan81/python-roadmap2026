@@ -91,9 +91,10 @@ Você **JÁ CONCLUIU**:
 
 **Objetivo:** pensar como dev de time
 
-- [ ]  Remover código repetido
-- [ ]  Simplificar métodos
-- [ ]  Pequenas validações extras
+- [x] Revisei nomes
+- [x]  Código mais legível
+- [x]  Nada de feature nova
+- [x]  DIA 18 CONCLUÍDO
 
 ---
 
