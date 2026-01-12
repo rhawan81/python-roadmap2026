@@ -30,7 +30,7 @@ class Sistema:
                 except ValueError:
                     print('Digite um valor valido')
                     continue
-                print(self.remover_item(indice))
+                self.remover_item(indice) # chamamos apenas a funçao junto com a variavel que pede , e removemos o metodo print pois ira causar confusao
             elif opcao == 5:
                 print('saindo do programa')
                 break      
