@@ -149,10 +149,10 @@ Você **JÁ CONCLUIU**:
 
 **Objetivo:** reproduzir o projeto CLI como API
 
-- [ ]  Criar
-- [ ]  Listar
-- [ ]  Atualizar
-- [ ]  Deletar
+- [x]  Criar
+- [x]  Listar
+- [x]  Atualizar
+- [x]  Deletar
 
 ---
 

@@ -27,8 +27,8 @@ def mostrar_cadastros():
     
 @app.delete("/deletar_user/{id}")
 def deletar_user(id:int):
-    for p in usuarios_cadastrados:
-        if p['id'] == id:
+    for p, item in enumerate(usuarios_cadastrados):
+        if item['id'] == id:
             usuarios_cadastrados.pop(p)
             return {'mensagem': 'Usuario  removido com sucesso'}
     return {'mensagem': 'Usuario nao foi encontrado'}
