@@ -136,11 +136,14 @@ Você **JÁ CONCLUIU**:
 
 **Objetivo:** criar primeira API
 
-- [ ]  Estrutura FastAPI
-- [ ]  Endpoint simples
-- [ ]  Swagger
-
----
+- [x]  Estrutura FastAPI
+- [x]  Endpoint simples
+- [x]  Swagger
+- [x] FastAPI instalado
+- [x] API rodando
+- [x] Endpoint "/" funcionando
+- [x] Swagger acessível
+- [x] DIA 22 CONCLUÍDO
 
 ## 📅 DIA 23 — CRUD com FastAPI
 
