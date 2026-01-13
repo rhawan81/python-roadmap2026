@@ -124,12 +124,14 @@ Você **JÁ CONCLUIU**:
 
 **Objetivo:** mudar mentalidade de CLI → Web
 
-- [ ]  O que é API
-- [ ]  Request / Response
-- [ ]  HTTP básico
-
----
-
+- [x]  O que é API
+- [x]  Request / Response
+- [x]  HTTP básico
+- [x] Entendi o que é API
+- [x] Entendi request/response
+- [x] Entendi métodos HTTP
+- [x] Consegui relacionar com meu projeto
+- [x] DIA 21 CONCLUÍDO
 ## 📅 DIA 22 — FastAPI (Primeiro Contato)
 
 **Objetivo:** criar primeira API
