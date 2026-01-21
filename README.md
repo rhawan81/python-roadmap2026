@@ -160,9 +160,9 @@ Você **JÁ CONCLUIU**:
 
 **Objetivo:** dados seguros
 
-- [ ]  Models
-- [ ]  Tipagem
-- [ ]  Validação automática
+- [X]  Models
+- [X]  Tipagem
+- [X]  Validação automática
 
 ---
 
