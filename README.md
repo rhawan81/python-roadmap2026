@@ -217,7 +217,7 @@ Você **JÁ CONCLUIU**:
 
 ---
 
-## 📅 DIA 30 — Revisão Final
+## 📅 DIA 30 — Revisão Final , Desafio Concluido com sucesso
 
 **Objetivo:** consolidar
 
@@ -227,9 +227,4 @@ Você **JÁ CONCLUIU**:
 
 ---
 
-<<<<<<< HEAD
 ---
-=======
-
----
->>>>>>> 78fcb77739fe89a2b6164dbb98b0dad028d46dc6
