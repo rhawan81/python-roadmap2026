@@ -227,9 +227,4 @@ Você **JÁ CONCLUIU**:
 
 ---
 
-## 🧠 REGRA DE OURO
-
-> Você não está estudando Python. Você está construindo perfil profissional.
-> 
-
 ---
