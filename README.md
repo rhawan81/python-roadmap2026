@@ -170,9 +170,9 @@ Você **JÁ CONCLUIU**:
 
 **Objetivo:** projeto de portfólio
 
-- [ ]  API organizada
-- [ ]  Endpoints claros
-- [ ]  README
+- [X]  API organizada
+- [X]  Endpoints claros
+- [X]  README
 
 ---
 
