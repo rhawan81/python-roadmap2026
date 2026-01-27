@@ -180,9 +180,9 @@ Você **JÁ CONCLUIU**:
 
 **Objetivo:** perfil atrativo
 
-- [ ]  Fixar repositórios
-- [ ]  Commits descritivos
-- [ ]  README final
+- [x]  Fixar repositórios
+- [x]  Commits descritivos
+- [x]  README final
 
 ---
 
@@ -190,9 +190,9 @@ Você **JÁ CONCLUIU**:
 
 **Objetivo:** aplicar para vagas
 
-- [ ]  Currículo 1 página
-- [ ]  Projetos como experiência
-- [ ]  Stack clara
+- [x]  Currículo 1 página
+- [x]  Projetos como experiência
+- [x]  Stack clara
 
 ---
 
